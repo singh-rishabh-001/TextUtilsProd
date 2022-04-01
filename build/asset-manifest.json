@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3ae05feb.chunk.css",
+    "main.js": "/static/js/main.28029411.chunk.js",
+    "main.js.map": "/static/js/main.28029411.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.cc8de7dc.js",
+    "runtime-main.js.map": "/static/js/runtime-main.cc8de7dc.js.map",
+    "static/js/2.54b6dfdd.chunk.js": "/static/js/2.54b6dfdd.chunk.js",
+    "static/js/2.54b6dfdd.chunk.js.map": "/static/js/2.54b6dfdd.chunk.js.map",
+    "static/js/3.cdc9c3ca.chunk.js": "/static/js/3.cdc9c3ca.chunk.js",
+    "static/js/3.cdc9c3ca.chunk.js.map": "/static/js/3.cdc9c3ca.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.3ae05feb.chunk.css.map": "/static/css/main.3ae05feb.chunk.css.map",
+    "static/js/2.54b6dfdd.chunk.js.LICENSE.txt": "/static/js/2.54b6dfdd.chunk.js.LICENSE.txt",
+    "static/media/cloud-moon-solid.c56a980e.svg": "/static/media/cloud-moon-solid.c56a980e.svg",
+    "static/media/cloud-sun-solid.8a3f2652.svg": "/static/media/cloud-sun-solid.8a3f2652.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cc8de7dc.js",
+    "static/js/2.54b6dfdd.chunk.js",
+    "static/css/main.3ae05feb.chunk.css",
+    "static/js/main.28029411.chunk.js"
+  ]
+}

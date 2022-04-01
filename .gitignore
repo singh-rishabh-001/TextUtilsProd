@@ -1,0 +1,5 @@
+/textutils/__pycache__
+/textutilsapp/migrations
+/textutilsapp/__pycache__
+db.sqlite3*
+.env
